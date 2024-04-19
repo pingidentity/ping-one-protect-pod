@@ -30,11 +30,11 @@
 		</data>
 		<key>ios-arm64/PingOneSignals.framework/PingOneSignals</key>
 		<data>
-		wI0IXtILdN6rUPNfBPqIqCY7LJc=
+		H5Nuk1jH3e/AVqmpWxsseq2Axkc=
 		</data>
 		<key>ios-arm64/PingOneSignals.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		znwW6zrXOGFF29y6PTlDfOnc1mw=
+		P1SYUHT7htDCSFheTnAMButLPpA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PingOneSignals.framework/Headers/POInitParams.h</key>
 		<data>
@@ -62,11 +62,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PingOneSignals.framework/PingOneSignals</key>
 		<data>
-		gRUa2RSQdubzK+YCw1wyb2mNVC8=
+		448U/jHE6ehHaFWeDvE3YQpHHyQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PingOneSignals.framework/PrivacyInfo.xcprivacy</key>
 		<data>
-		znwW6zrXOGFF29y6PTlDfOnc1mw=
+		P1SYUHT7htDCSFheTnAMButLPpA=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -141,22 +141,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wI0IXtILdN6rUPNfBPqIqCY7LJc=
+			H5Nuk1jH3e/AVqmpWxsseq2Axkc=
 			</data>
 			<key>hash2</key>
 			<data>
-			RMaY6wbp+qrar+NtXgayGzuGHXoaO2XokdPxgtRC9Wk=
+			g8vUbSNvqgSDhB+riZJ+T6JtSw1n/qP36R2IeZrAQJM=
 			</data>
 		</dict>
 		<key>ios-arm64/PingOneSignals.framework/PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			znwW6zrXOGFF29y6PTlDfOnc1mw=
+			P1SYUHT7htDCSFheTnAMButLPpA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y1lYXIc8UngUBiy7QK8Qw3BHoGdXrD5kI+1RS4I4Zzg=
+			OTmNNGHcB1FXcTKL+0CJqxN5fWhtFSeiqgJlBKu73JI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PingOneSignals.framework/Headers/POInitParams.h</key>
@@ -229,22 +229,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gRUa2RSQdubzK+YCw1wyb2mNVC8=
+			448U/jHE6ehHaFWeDvE3YQpHHyQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			6wqn0cf/68uAyq+aQ6hNGNucrMj2n5pOic7DlOVPxpU=
+			9PsbMsmdC8aaV9qY4zdtGsP48f+W/6URT+R5tTyvi+s=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PingOneSignals.framework/PrivacyInfo.xcprivacy</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			znwW6zrXOGFF29y6PTlDfOnc1mw=
+			P1SYUHT7htDCSFheTnAMButLPpA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y1lYXIc8UngUBiy7QK8Qw3BHoGdXrD5kI+1RS4I4Zzg=
+			OTmNNGHcB1FXcTKL+0CJqxN5fWhtFSeiqgJlBKu73JI=
 			</data>
 		</dict>
 	</dict>
