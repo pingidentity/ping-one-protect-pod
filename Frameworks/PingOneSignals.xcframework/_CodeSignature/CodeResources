@@ -22,7 +22,7 @@
 		</data>
 		<key>ios-arm64/PingOneSignals.framework/Info.plist</key>
 		<data>
-		KA4ayTLJn7mSeg3qhDIHcOz+VxU=
+		7N7wlg6kvvgQkRx+pQvADaoPob8=
 		</data>
 		<key>ios-arm64/PingOneSignals.framework/Modules/module.modulemap</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>ios-arm64/PingOneSignals.framework/PingOneSignals</key>
 		<data>
-		H5Nuk1jH3e/AVqmpWxsseq2Axkc=
+		BOtYlUDCl08oX4hYU3xUqO4nf4E=
 		</data>
 		<key>ios-arm64/PingOneSignals.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PingOneSignals.framework/Info.plist</key>
 		<data>
-		KA4ayTLJn7mSeg3qhDIHcOz+VxU=
+		7N7wlg6kvvgQkRx+pQvADaoPob8=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PingOneSignals.framework/Modules/module.modulemap</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/PingOneSignals.framework/PingOneSignals</key>
 		<data>
-		448U/jHE6ehHaFWeDvE3YQpHHyQ=
+		3hlXJOehcbl3NH2XDtwy+utrK6c=
 		</data>
 		<key>ios-arm64_x86_64-simulator/PingOneSignals.framework/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -119,11 +119,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KA4ayTLJn7mSeg3qhDIHcOz+VxU=
+			7N7wlg6kvvgQkRx+pQvADaoPob8=
 			</data>
 			<key>hash2</key>
 			<data>
-			+IxR19LKXZPXbIh94WD0XO9HY9Mv0PF87+TZcKl8SMo=
+			OErR47fTUwarbKHRWE3rlk5Km+3O2pN1L043kqTwOKU=
 			</data>
 		</dict>
 		<key>ios-arm64/PingOneSignals.framework/Modules/module.modulemap</key>
@@ -141,11 +141,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			H5Nuk1jH3e/AVqmpWxsseq2Axkc=
+			BOtYlUDCl08oX4hYU3xUqO4nf4E=
 			</data>
 			<key>hash2</key>
 			<data>
-			g8vUbSNvqgSDhB+riZJ+T6JtSw1n/qP36R2IeZrAQJM=
+			A7iIidxdiKtovYq7FaDNjoV/6vikjRUjisH1iFGmtw4=
 			</data>
 		</dict>
 		<key>ios-arm64/PingOneSignals.framework/PrivacyInfo.xcprivacy</key>
@@ -207,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KA4ayTLJn7mSeg3qhDIHcOz+VxU=
+			7N7wlg6kvvgQkRx+pQvADaoPob8=
 			</data>
 			<key>hash2</key>
 			<data>
-			+IxR19LKXZPXbIh94WD0XO9HY9Mv0PF87+TZcKl8SMo=
+			OErR47fTUwarbKHRWE3rlk5Km+3O2pN1L043kqTwOKU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PingOneSignals.framework/Modules/module.modulemap</key>
@@ -229,11 +229,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			448U/jHE6ehHaFWeDvE3YQpHHyQ=
+			3hlXJOehcbl3NH2XDtwy+utrK6c=
 			</data>
 			<key>hash2</key>
 			<data>
-			9PsbMsmdC8aaV9qY4zdtGsP48f+W/6URT+R5tTyvi+s=
+			vDw2BGnqUgwqbkszt89oI4HuBROaImhmRameNBtJ3XY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/PingOneSignals.framework/PrivacyInfo.xcprivacy</key>
